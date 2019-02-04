@@ -1,0 +1,5 @@
+1) 	Amit 	Physics 	80
+2) 	Niroop 	Maths 		90
+3) 	Amandeep	Biology 	45
+4) 	Prab 	English 	34
+5) 	Hari 	History 	27
